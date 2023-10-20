@@ -14,7 +14,6 @@
 - **Precise Control:** Control individual pins or entire ports with a single function.
 - **User-Friendly API:** Simple and intuitive functions for GPIO interaction.
 - **Pull-up Support:** Activate/deactivate internal pull-up resistors for input pins.
-- **Detailed Documentation:** Comprehensive documentation for easy integration.
 
 **Usage**
 
@@ -22,7 +21,7 @@ This driver simplifies GPIO configuration, making it a valuable tool for ATmega3
 
 **Getting Started**
 
-To start using this AVR GPIO driver, clone this repository, and refer to the example code and comprehensive documentation provided in the "docs" folder. Take control of your GPIO pins effortlessly!
+To start using this AVR GPIO driver, clone this repository, and refer to the example code. Take control of your GPIO pins effortlessly!
 
 **Contributions**
 
